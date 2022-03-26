@@ -60,3 +60,5 @@ You can click the Preview link to take a look at your changes.
 [linkedin]: https://www.linkedin.com/in/ahmedaghadi/
 [replit]:https://replit.com/@AHMEDAGHADI
 [qwiklabs]:https://www.qwiklabs.com/public_profiles/13d2fc34-8aff-44b4-adcc-77032ccf8cb2
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ahmed-Aghadi)
