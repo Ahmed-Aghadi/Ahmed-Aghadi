@@ -15,9 +15,10 @@ You can click the Preview link to take a look at your changes.
 ### 👋 Hi, I'm Ahmed Aghadi
 
 - ⏳ I’m currently learning:
-    - Machine Learning
-    - DevOps
+    - Blockchain
     - Web Development
+    - DevOps
+    - Machine Learning
     - Android Development
 
 ### Connect With Me
