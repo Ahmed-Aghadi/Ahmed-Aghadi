@@ -24,6 +24,7 @@ You can click the Preview link to take a look at your changes.
 ### Connect With Me
 
 [<img align="left" alt="LinkedIn" width="125px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Twitter" width="125px" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/AHMEDAGHADI)
 [<img align="left" alt="Instagram" width="125px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/ahmed_aghadi/)
 [<img align="left" alt="reddit" width="105px" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />](https://www.reddit.com/user/Ahmed_Aghadi)
 [<img align="left" alt="gmail" width="105px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=ahmedaghadi123@gmail.com)
@@ -49,6 +50,7 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="GCP" width="40px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />][qwiklabs]
 [<img align="left" alt="GCP" width="100px" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />][replit]
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://soliditylang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="python" width="40" height="40"/> </a>
 
 <br>
 <br>
