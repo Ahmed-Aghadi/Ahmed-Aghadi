@@ -15,8 +15,9 @@ You can click the Preview link to take a look at your changes.
 ### 👋 Hi, I'm Ahmed Aghadi
 
 - ⏳ I’m currently learning:
-    - Zero Knowledge
+    - Smart Contract Security
     - Blockchain
+    - Zero Knowledge
 
 ### Connect With Me
 
