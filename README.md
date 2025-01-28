@@ -14,11 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 ### 👋 Hi, I'm Ahmed Aghadi
 
-- ⏳ I’m currently learning:
-    - Smart Contract Security
-    - Blockchain
-    - Zero Knowledge
-
 ### Connect With Me
 
 [<img align="left" alt="LinkedIn" width="125px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
